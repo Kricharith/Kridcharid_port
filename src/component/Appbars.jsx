@@ -53,7 +53,7 @@ const Appbars = () => {
                             <Box display="flex" justifyContent="center" alignItems="center">
                                 <Link component={RouterLink} to="/profile" sx={{ pr: 2, pl: 2, color: textColor, textDecoration: 'none' }}>
                                     <Typography variant="h6">
-                                        Kridcharid Srikam
+                                        Kridcharid Srikam -- ^_^ --
                                     </Typography>
                                 </Link>
                             </Box>
